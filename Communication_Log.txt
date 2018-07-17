@@ -1,0 +1,96 @@
+Time: [Sat May 28 21:38:32 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Send to all players: the player: 12qqcreated!
+
+Time: [Sat May 28 21:38:32 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Request to client: choice for start game or quit game
+
+Time: [Sat May 28 21:38:34 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Response from client: "1"
+
+Time: [Sat May 28 21:38:40 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Send to all players: the player: 10ttcreated!
+
+Time: [Sat May 28 21:38:40 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Request to client: choice for start game or quit game
+
+Time: [Sat May 28 21:38:41 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Response from client: "1"
+
+Time: [Sat May 28 21:38:47 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Request to client: the choice of ask more card, wait result or quit
+
+Time: [Sat May 28 21:38:47 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Request to client: the choice of ask more card, wait result or quit
+
+Time: [Sat May 28 21:38:50 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Response from client: "2"
+
+Time: [Sat May 28 21:38:59 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Response from client: "1"
+
+Time: [Sat May 28 21:38:59 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Send to client: the cards dealt for player
+
+Time: [Sat May 28 21:38:59 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Request to client: the choice of ask more card, wait result or quit
+
+Time: [Sat May 28 21:39:07 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Response from client: "2"
+
+Time: [Sat May 28 21:39:07 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Send to client: display all dealer's cards.
+
+Time: [Sat May 28 21:39:07 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Send to client: display all dealer's cards.
+
+Time: [Sat May 28 21:39:07 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Send to client: player draw with dealer.
+
+Time: [Sat May 28 21:39:07 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Send to client: player draw with dealer.
+
+Time: [Sat May 28 21:39:07 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Request to client: choice for start game or quit game
+
+Time: [Sat May 28 21:39:07 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Request to client: choice for start game or quit game
+
+Time: [Sat May 28 21:39:17 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Response from client: "1"
+
+Time: [Sat May 28 21:39:26 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Response from client: "1"
+
+Time: [Sat May 28 21:39:40 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Request to client: the choice of ask more card, wait result or quit
+
+Time: [Sat May 28 21:39:40 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Request to client: the choice of ask more card, wait result or quit
+
+Time: [Sat May 28 21:39:54 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Response from client: "2"
+
+Time: [Sat May 28 21:40:00 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Response from client: "2"
+
+Time: [Sat May 28 21:40:00 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Send to client: display all dealer's cards.
+
+Time: [Sat May 28 21:40:00 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Send to client: display all dealer's cards.
+
+Time: [Sat May 28 21:40:00 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Send to client: player wins.
+
+Time: [Sat May 28 21:40:00 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Request to client: choice for start game or quit game
+
+Time: [Sat May 28 21:40:00 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Send to client: player wins.
+
+Time: [Sat May 28 21:40:00 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Request to client: choice for start game or quit game
+
+Time: [Sat May 28 21:40:12 AEST 2016], Socket Address: Socket[addr=/127.0.0.1,port=54499,localport=10481]
+Response from client: "2"
+
